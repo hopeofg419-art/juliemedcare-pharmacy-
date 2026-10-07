@@ -1,0 +1,16 @@
+{
+  "name": "Julie Medcare Pharmacy",
+  "short_name": "Julie Medcare",
+  "description": "Stock, sales and money for Julie Medcare Pharmacy.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#F6F2E9",
+  "theme_color": "#14254B",
+  "icons": [
+    { "src": "icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
